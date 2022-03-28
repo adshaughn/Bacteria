@@ -66,28 +66,28 @@ function buildCharts(sample) {
 
     console.log(result)
     
-  //   // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
-  //   var ids = 
+    // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
+    var ids = 
 
-  //   var labels =
+    var labels =
 
-  //   var values =
+    var values =
 
-  //   // 7. Create the yticks for the bar chart.
-  //   // Hint: Get the the top 10 otu_ids and map them in descending order  
-  //   //  so the otu_ids with the most bacteria are last. 
+    // 7. Create the yticks for the bar chart.
+    // Hint: Get the the top 10 otu_ids and map them in descending order  
+    //  so the otu_ids with the most bacteria are last. 
 
-  //   var yticks = 
+    var yticks = 
 
-  //   // 8. Create the trace for the bar chart. 
-  //   var barData = [
+    // 8. Create the trace for the bar chart. 
+    var barData = [
       
-  //   ];
-  //   // 9. Create the layout for the bar chart. 
-  //   var barLayout = {
+    ];
+    // 9. Create the layout for the bar chart. 
+    var barLayout = {
      
-  //   };
-  //   // 10. Use Plotly to plot the data with the layout. 
+    };
+    // 10. Use Plotly to plot the data with the layout. 
     
-  // });
+  });
 }
